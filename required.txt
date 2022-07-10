@@ -1,0 +1,4 @@
+Fake.csv
+True.csv
+GoogleNews-vectors-negative300.bin 
+bitis.ipynb
